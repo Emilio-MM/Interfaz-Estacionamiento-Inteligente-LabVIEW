@@ -3,8 +3,8 @@
 This repository contains an intelligent system developed for the automated management of a parking lot. The primary objective is to monitor parking space availability in real-time and digitize the payment process through virtual ticketing.
 
 <div align="center">
-  <img src="images/Picture2.png" width="400" alt="LabVIEW Main UI" />
-  <img src="images/Picture1.png" width="400" alt="LabVIEW Free Places" />
+  <img src="images/Picture1.png" width="400" alt="LabVIEW Main UI" />
+  <img src="images/Picture2.png" width="400" alt="LabVIEW Free Places" />
 </div>
 
 ## System Architecture
